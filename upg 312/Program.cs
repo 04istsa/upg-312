@@ -16,7 +16,7 @@ namespace upg_312
             }
             else
             {
-                Console.WriteLine($"du har {numDat} datorer");
+                Console.WriteLine($"du har {numDat} atorer");
             }
         }
     }
